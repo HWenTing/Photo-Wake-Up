@@ -1,5 +1,6 @@
 # Photo-Wake-Up
 csdn: https://blog.csdn.net/TingHW
+
 对”Photo Wake-Up: 3D Character Animation from a Single Photo“论文的简单实现
 
 smpl部分调用现有模型即可，并渲染得到深度图，法线图等
